@@ -9,9 +9,11 @@ O objetivo desta atividade é documentar os requisitos de um jogo de forca, deta
 
 ## 📂 Estrutura do Projeto
 O projeto contém os seguintes arquivos:
-- [`Requisitos_Forca.md`](./Requisitos_Forca.md): Documento com os requisitos funcionais e não funcionais do sistema.
-- [`README.md`](./README.md): Este arquivo, com a descrição do repositório e instruções sobre o projeto.
-- Diretório `.git`: Gerenciamento de versionamento do projeto com Git.
+- [`index.html`](./index.html): Página principal do jogo da forca.  
+- [`src/script.js`](./src/script.js): Arquivo contendo a lógica do jogo em JavaScript.  
+- [`src/style.css`](./src/style.css): Arquivo responsável pela estilização do jogo.  
+- [`requisitos_forca.md`](./requisitos_forca.md): Documento com os requisitos funcionais e não funcionais do sistema.  
+- [`README.md`](./README.md): Este arquivo, com a descrição do repositório e instruções sobre o projeto.  
 
 ## 📌 Requisitos do Jogo de Forca
 O documento [`Requisitos_Forca.md`](./Requisitos_Forca.md) contém a descrição completa dos requisitos funcionais e não funcionais.  
